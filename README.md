@@ -1,7 +1,7 @@
 # dea-utils
 a few small utilites
 
-##unclip
+## unclip
 **unclip** - redirect clipboard to stout
 
 example: output clipboard to file tmp.txt
