@@ -5,6 +5,10 @@ a few small utilites
 
 
 ## unclip
+
+перенесено в монорепо
+
+
 **unclip** - redirect clipboard to stout
 
 example: output clipboard to file tmp.txt
